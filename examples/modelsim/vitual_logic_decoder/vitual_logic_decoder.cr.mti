@@ -1,0 +1,8 @@
+C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/vitual_logic_decoder/tb/vitual_logic_decoder_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/vitual_logic_decoder/tb/vitual_logic_decoder_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module vitual_logic_decoder_tb
+
+Top level modules:
+	vitual_logic_decoder_tb
+
+} {} {}}

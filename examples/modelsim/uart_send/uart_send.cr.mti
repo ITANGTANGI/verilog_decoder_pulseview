@@ -1,0 +1,15 @@
+C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/tb/uart_send_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/tb/uart_send_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module uart_send_tb
+
+Top level modules:
+	uart_send_tb
+
+} {} {}} C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/rtl/uart_send.v {1 {vlog -work work -vopt -stats=none C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/rtl/uart_send.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module uart_send
+
+Top level modules:
+	uart_send
+
+} {} {}}

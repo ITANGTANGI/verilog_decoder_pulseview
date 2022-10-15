@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/SOFTWARE/Modelsim/examples
+vuart_send
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 g2=4JN8O3CN`Tc]JADo2J1
+IoJ6^NoVaVW>[ImX:b=MP80
+Z1 dC:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send
+Z2 w1665847583
+8C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/rtl/uart_send.v
+FC:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/rtl/uart_send.v
+L0 18
+Z3 OL;L;10.4;61
+!s108 1665848130.953000
+!s107 C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/rtl/uart_send.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/rtl/uart_send.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vuart_send_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 84o27@gNUg=]KVz>Gz`3a3
+IAEkSVk90aY91[8c^lN1;[2
+R1
+R2
+8C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/tb/uart_send_tb.v
+FC:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/tb/uart_send_tb.v
+L0 19
+R3
+!s108 1665848130.913000
+!s107 C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/tb/uart_send_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send/tb/uart_send_tb.v|
+!i113 0
+R4
