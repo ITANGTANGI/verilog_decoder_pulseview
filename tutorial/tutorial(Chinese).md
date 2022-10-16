@@ -95,6 +95,7 @@ endmodule
 ![windows_select_vcd](./pictures/windows_select_vcd.png)
 
 参数设置,可以不用管
+
 ![windows_para_set](./pictures/windows_para_set.png)
 
 点击OK后，即可成功加载波形
@@ -105,6 +106,7 @@ endmodule
 ![windows_uart_send_load](./pictures/windows_uart_send_load.png)
 
 点击箭头所指，打开解码器库界面，搜索UART，并双击UART解码器添加到波形图中。
+
 ![windows_decoder_select](./pictures/windows_decoder_select.png)
 
 点击波形图中的UART解码器，根据自己的设计选择需要解码的通道，设置波特率等参数，选择数据显示格式为ASCII，选择完成后会自动重新解码。
