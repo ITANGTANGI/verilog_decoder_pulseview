@@ -24,10 +24,13 @@ VCD （Value Change Dump）是一个通用的格式。 VCD文件是IEEE1364标�
 ### 软件安装
 首先到官网  https://sigrok.org/wiki/Downloads  如下图所示，根据电脑的配置下载Windows安装包，已经使用过sigrok兼容的逻辑分析仪的话应该电脑中都有pulseview软件了。
 ![windows_pulse_view_download](./pictures/windows_pulse_view_download.png)
+
 下载完成后双击安装包，按照正常软件安装步骤正常安装即可，没有啥需要注意的。如下图所示就是安装按成了。
 ![windows_pulseview_setupdone](./pictures/windows_pulseview_setupdone.png)
+
 安装完成后不会生成快捷方式，在“开始”菜单栏中找到如下图所示的sigrok文件夹中pulseview打开或自行添加快捷方式即可。
 ![windows_pulseview_software](./pictures/windows_pulseview_software.png)
+
 至此软件安装完成。
 ### vcd波形文件生成
 因为VCD是 Verilog HDL语言标准的一部分，因此所有的verilog的仿真器都要能够实现这个功能，也要允许用户在verilog代码中通过系统函数来dump VCD文件。我们可以通过Verilog HDL的系统函数dumpfile来生成波形，通过dumpvars的参数来规定我们抽取仿真中某些特定模块和信号的数据。
@@ -87,20 +90,26 @@ endmodule
 
 打开pulseview软件，点击菜单栏open图标右侧小三角，选择Import Value Change Dump data选项，界面如下图所示：
 ![windows_pulseview_start](./pictures/windows_pulseview_start.png)
+
 打开生成的vcd文件
 ![windows_select_vcd](./pictures/windows_select_vcd.png)
+
 参数设置,可以不用管
 ![windows_para_set](./pictures/windows_para_set.png)
+
 点击OK后，即可成功加载波形
 ![windows_base_pulseview](./pictures/windows_base_pulseview.png)
 
 #### 波形解码
 编写一个串口发送Hello world！字符串的Verilog程序，按照上述方法进行仿真生成vcd文件，使用pulseview加载后如下图所示。
 ![windows_uart_send_load](./pictures/windows_uart_send_load.png)
+
 点击箭头所指，打开解码器库界面，搜索UART，并双击UART解码器添加到波形图中。
 ![windows_decoder_select](./pictures/windows_decoder_select.png)
+
 点击波形图中的UART解码器，根据自己的设计选择需要解码的通道，设置波特率等参数，选择数据显示格式为ASCII，选择完成后会自动重新解码。
 ![windows_decoder_set](./pictures/windows_decoder_set.png)
+
 解码完成后显示正确的解码结果。
 ![windows_decode_result](./pictures/windows_decode_result.png)
 
