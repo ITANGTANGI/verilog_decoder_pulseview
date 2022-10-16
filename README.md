@@ -7,6 +7,6 @@ This repository holds the design source code for decoding protocols using pulsev
 # How to use?
 The specific pulseview download and installation, testbench writing and simulation process are described in detail in the tutorial:
 
-https://github.com/ITANGTANGI/verilog_decoder_pulseview/blob/main/tutorial/tutorial.md
+https://github.com/ITANGTANGI/verilog_decoder_pulseview/blob/main/tutorial/tutorial(Chinese).md
 
 Video version of the tutorial: in production
