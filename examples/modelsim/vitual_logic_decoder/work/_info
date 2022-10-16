@@ -7,9 +7,17 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/uart_send
+dC:/SOFTWARE/Modelsim/examples
+T_opt
+!s110 1665915725
+VWK]>6]TW:8zKS9Yd8Lh_L0
+04 23 4 work vitual_logic_decoder_tb fast 0
+=1-a036bc090d49-634bdb4d-6b-f54
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
 vvitual_logic_decoder_tb
-!s110 1665848503
+!s110 1665915719
 !i10b 1
 !s100 XRH0lHYTG>jfPfe8h4N3<0
 IS28GiKlkDdAOdDdf7L6bN2
@@ -23,7 +31,7 @@ OL;L;10.4;61
 r1
 !s85 0
 31
-!s108 1665848503.775000
+!s108 1665915719.196000
 !s107 C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/vitual_logic_decoder/tb/vitual_logic_decoder_tb.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/TANG/Desktop/verilog_decoder_pulseview/examples/modelsim/vitual_logic_decoder/tb/vitual_logic_decoder_tb.v|
 !i113 0
